@@ -1,0 +1,125 @@
+{
+    "version": "0.01", 
+	"user_config": [
+		{
+			"paramId": 2,
+			"name": "s1",
+			"type": "uint8",
+			"value": 100
+		},
+		{
+			"paramId": 3,
+			"name": "gN",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 4,
+			"name": "iN",
+			"type": "uint8",
+			"value": 100
+		},
+		{
+			"paramId": 5,
+			"name": "d1",
+			"type": "uint8",
+			"value": 10
+		},
+		{
+			"paramId": 6,
+			"name": "s1 port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 7,
+			"name": "gN port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 8,
+			"name": "iN port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 9,
+			"name": "d1 port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 10,
+			"name": "pri lever arm x",
+			"type": "float",
+			"value": 1.705
+		},
+		{
+			"paramId": 11,
+			"name": "pri lever arm y",
+			"type": "float",
+			"value": -0.11
+		},
+		{
+			"paramId": 12,
+			"name": "pri lever arm z",
+			"type": "float",
+			"value": -0.95
+		},
+		{
+			"paramId": 13,
+			"name": "vrp lever arm x",
+			"type": "float",
+			"value": 0.605
+		},
+		{
+			"paramId": 14,
+			"name": "vrp lever arm y",
+			"type": "float",
+			"value": -0.11
+		},
+		{
+			"paramId": 15,
+			"name": "vrp lever arm z",
+			"type": "float",
+			"value": 0.265
+		},
+		{
+			"paramId": 16,
+			"name": "user lever arm x",
+			"type": "float",
+			"value": 0.705
+		},
+		{
+			"paramId": 17,
+			"name": "user lever arm y",
+			"type": "float",
+			"value": -0.11
+		},
+		{
+			"paramId": 18,
+			"name": "user lever arm z",
+			"type": "float",
+			"value": -0.95
+		},
+		{
+			"paramId": 19,
+			"name": "rotation rbvx",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 20,
+			"name": "rotation rbvy",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 21,
+			"name": "rotation rbvz",
+			"type": "float",
+			"value": 180.0
+		}
+	]
+}
