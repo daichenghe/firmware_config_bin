@@ -1,125 +1,305 @@
 {
-    "version": "0.01", 
+    "version": "0.01",  
 	"user_config": [
 		{
 			"paramId": 2,
-			"name": "s1",
+			"name": "s1 rate",
 			"type": "uint8",
 			"value": 100
 		},
 		{
 			"paramId": 3,
-			"name": "gN",
+			"name": "gN rate",
 			"type": "uint8",
 			"value": 1
 		},
 		{
 			"paramId": 4,
-			"name": "iN",
+			"name": "iN rate",
 			"type": "uint8",
 			"value": 100
 		},
 		{
 			"paramId": 5,
-			"name": "d1",
+			"name": "iS rate",
 			"type": "uint8",
-			"value": 10
+			"value": 100
 		},
 		{
 			"paramId": 6,
+			"name": "sT rate",
+			"type": "uint8",
+			"value": 100
+		},
+		{
+			"paramId": 7,
+			"name": "iB rate",
+			"type": "uint8",
+			"value": 100
+		},
+		{
+			"paramId": 8,
+			"name": "RM rate",
+			"type": "uint8",
+			"value": 100
+		},
+		{
+			"paramId": 9,
+			"name": "rR rate",
+			"type": "uint8",
+			"value": 255
+		},
+		{
+			"paramId": 10,
+			"name": "pv rate",
+			"type": "uint8",
+			"value": 1
+		},		
+		{
+			"paramId": 11,
+			"name": "nm rate",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 12,
+			"name": "odo rate",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 13,
+			"name": "movbs rate",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 14,
+			"name": "heading rate",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 15,
 			"name": "s1 port",
 			"type": "uint8",
 			"value": 1
 		},
 		{
-			"paramId": 7,
+			"paramId": 16,
 			"name": "gN port",
 			"type": "uint8",
 			"value": 1
 		},
 		{
-			"paramId": 8,
+			"paramId": 17,
 			"name": "iN port",
 			"type": "uint8",
 			"value": 1
 		},
 		{
-			"paramId": 9,
-			"name": "d1 port",
+			"paramId": 18,
+			"name": "iS port",
 			"type": "uint8",
 			"value": 1
 		},
 		{
-			"paramId": 10,
+			"paramId": 19,
+			"name": "sT port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 20,
+			"name": "iB port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 21,
+			"name": "RM port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 22,
+			"name": "rR port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 23,
+			"name": "pv port",
+			"type": "uint8",
+			"value": 1
+		},		
+		{
+			"paramId": 24,
+			"name": "nm port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 25,
+			"name": "odo port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 26,
+			"name": "movbs port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 27,
+			"name": "heading port",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 28,
 			"name": "pri lever arm x",
 			"type": "float",
 			"value": 1.705
 		},
 		{
-			"paramId": 11,
+			"paramId": 29,
 			"name": "pri lever arm y",
 			"type": "float",
 			"value": -0.11
 		},
 		{
-			"paramId": 12,
+			"paramId": 30,
 			"name": "pri lever arm z",
 			"type": "float",
 			"value": -0.95
 		},
 		{
-			"paramId": 13,
+			"paramId": 31,
 			"name": "vrp lever arm x",
 			"type": "float",
 			"value": 0.605
 		},
 		{
-			"paramId": 14,
+			"paramId": 32,
 			"name": "vrp lever arm y",
 			"type": "float",
 			"value": -0.11
 		},
 		{
-			"paramId": 15,
+			"paramId": 33,
 			"name": "vrp lever arm z",
 			"type": "float",
 			"value": 0.265
 		},
 		{
-			"paramId": 16,
+			"paramId": 34,
 			"name": "user lever arm x",
 			"type": "float",
 			"value": 0.705
 		},
 		{
-			"paramId": 17,
+			"paramId": 35,
 			"name": "user lever arm y",
 			"type": "float",
 			"value": -0.11
 		},
 		{
-			"paramId": 18,
+			"paramId": 36,
 			"name": "user lever arm z",
 			"type": "float",
 			"value": -0.95
 		},
 		{
-			"paramId": 19,
+			"paramId": 37,
 			"name": "rotation rbvx",
 			"type": "float",
 			"value": 0.0
 		},
 		{
-			"paramId": 20,
+			"paramId": 38,
 			"name": "rotation rbvy",
 			"type": "float",
 			"value": 0.0
 		},
 		{
-			"paramId": 21,
+			"paramId": 39,
 			"name": "rotation rbvz",
 			"type": "float",
 			"value": 180.0
+		},
+		{
+			"paramId": 40,
+			"name": "second lever arm x",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 41,
+			"name": "second lever arm y",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 42,
+			"name": "second lever arm z",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 43,
+			"name": "rotation alignx ",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 44,
+			"name": "rotation align y",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 45,
+			"name": "rotation align z",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 46,
+			"name": "nhc_enable",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 47,
+			"name": "odo_enable",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 48,
+			"name": "cali_enable",
+			"type": "uint8",
+			"value": 1
+		},
+		{
+			"paramId": 49,
+			"name": "baseline length",
+			"type": "float",
+			"value": 0.8
+		},
+		{
+			"paramId": 50,
+			"name": "heading calibration",
+			"type": "float",
+			"value": 0.0
+		},
+		{
+			"paramId": 51,
+			"name": "master_slave_type",
+			"type": "uint8",
+			"value": 0
 		}
 	]
 }
